@@ -1,0 +1,187 @@
+🧱 Phase 0: C++ Basics (Foundation)
+
+Must-know before DSA
+
+Input/Output (cin, cout)
+
+Data types, loops, conditionals
+
+Functions & recursion
+
+Pointers & references
+
+STL basics
+
+vector, pair, map, set
+
+stack, queue, priority_queue
+
+sort, lower_bound, upper_bound
+
+👉 Goal: Be comfortable writing clean C++ code fast.
+
+🔁 Phase 1: Time & Space Complexity
+
+Big-O, Big-Ω, Big-Θ
+
+Best / Worst / Average case
+
+Recursion stack space
+
+👉 Very important for interviews
+
+📦 Phase 2: Arrays & Strings
+
+Array traversal
+
+Prefix sum
+
+Sliding window
+
+Two pointers
+
+String manipulation
+
+Hashing basics
+
+Practice problems
+
+Reverse array
+
+Maximum subarray (Kadane)
+
+Two Sum
+
+Longest substring without repeating characters
+
+🔗 Phase 3: Linked List
+
+Singly & Doubly linked list
+
+Fast & slow pointers
+
+Reverse linked list
+
+Detect cycle
+
+Merge two sorted lists
+
+📚 Phase 4: Stack & Queue
+
+Stack using array / linked list
+
+Queue & circular queue
+
+Monotonic stack
+
+Next Greater Element
+
+Stock Span
+
+Valid Parentheses
+
+🌳 Phase 5: Trees
+
+Binary Tree basics
+
+Tree traversals (Inorder, Preorder, Postorder)
+
+Level order traversal
+
+Height / Diameter
+
+Binary Search Tree (BST)
+
+👉 Very high interview weight
+
+🧮 Phase 6: Recursion & Backtracking
+
+Basic recursion patterns
+
+Subsets / permutations
+
+N-Queens
+
+Sudoku solver
+
+Rat in a Maze
+
+🧠 Phase 7: Hashing
+
+unordered_map, unordered_set
+
+Frequency counting
+
+Subarray sum = K
+
+Longest consecutive sequence
+
+🔺 Phase 8: Heap / Priority Queue
+
+Min heap / Max heap
+
+K largest / smallest elements
+
+Merge K sorted arrays
+
+Median in a stream
+
+📊 Phase 9: Graphs
+
+Graph representation (Adj list)
+
+BFS & DFS
+
+Cycle detection
+
+Topological sort
+
+Shortest path
+
+BFS
+
+Dijkstra
+
+Bellman-Ford
+
+🧩 Phase 10: Dynamic Programming (🔥 Most Important)
+
+Memoization vs Tabulation
+
+1D DP (Fibonacci, Climbing stairs)
+
+2D DP (LCS, Knapsack)
+
+DP on strings
+
+DP on grids
+
+👉 Take this slowly and deeply
+
+⚙️ Phase 11: Advanced Topics
+
+Bit manipulation
+
+Tries
+
+Disjoint Set Union (Union-Find)
+
+Segment Tree (optional but powerful)
+
+🧪 Phase 12: Practice Strategy
+
+Platforms
+
+LeetCode
+
+GeeksforGeeks
+
+CodeStudio
+
+Codeforces (for logic building)
+
+Rule
+
+🟢 Easy → 🟡 Medium → 🔴 Hard
+
+Solve 300–500 problems for strong confidence
